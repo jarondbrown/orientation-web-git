@@ -6,7 +6,7 @@ This github repository will walk you through setting up your Git and GitHub acco
 
 ## Checklist
 
-- [x] View this README
+- [x] View this README 
 - [x] Create a GitHub Account
 - [x] Open your Command Line Interface
 - [x] Setting up your Username and Email
@@ -17,6 +17,8 @@ This github repository will walk you through setting up your Git and GitHub acco
 - [x] Committing Changes Locally
 - [x] Moving Changes to GitHub
 - [x] Standard Work Flow
+
+
 
 ---
 
